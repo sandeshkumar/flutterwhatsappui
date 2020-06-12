@@ -1,6 +1,5 @@
-# flutterwhatsapp
+# Flutter WhatsApp Clone UI
 
-A new Flutter project.
 
 ## Getting Started
 
